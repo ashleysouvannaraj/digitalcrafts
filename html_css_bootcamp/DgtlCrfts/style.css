@@ -1,0 +1,141 @@
+.container {
+    width: 50%;
+    padding-left: 25%;
+    font-family: CenturyGothic, AppleGothic, sans-serif;
+}
+
+header {
+    background-image: url("/DgtlCrfts/img/atl.png");
+    background-repeat: no-repeat;
+    height: 415px;
+    padding-top: 0px;
+    text-align: center;
+    margin: 0 auto;
+    width: 100%;
+}
+
+.top-navlinks {
+    text-align: right;
+    margin-bottom: 75px;
+    margin-right: 80px;
+}
+
+.top-navlinks a {
+    text-decoration: none;
+    color: white;
+    font-size: 9px;
+    padding: 20px 10px;
+    text-transform: uppercase;
+}
+
+.main-header h1 {
+    font-weight: lighter;
+    font-size: 45px;
+    color: white;
+    margin: 15px
+}
+
+.main-header p {
+    width: 190px;
+    height: 35px;
+    color: white;
+    margin: 0 auto;
+    font-size: 12px;
+    padding-bottom: 115px;
+}
+
+.content h2 {
+    text-align: center;
+    font-size: 25px;
+    margin-top: 45px;
+    margin-bottom: 45px;
+}
+
+.users {
+    text-align: center;
+    display: inline-block;
+    width: 125px;
+    height: 300px;
+    padding-left: 75px;
+}
+.users img {
+    width: 90%;
+    height: auto;
+}
+
+.users h2 {
+    margin: 10px auto;
+}
+
+.users p {
+    font-size: 10px;
+}
+
+.hashtag {
+    display: inline-block; 
+    text-align: center;
+    width: 125px;
+    height: 300px;
+    padding-left: 60px;
+}
+
+.hashtag img {
+    width: 90%;
+    height: auto;
+}
+
+.hashtag h2 {
+    margin: 10px auto; 
+}
+
+.hashtag p {
+    font-size: 10px;
+}
+
+.moolah {
+    display: inline-block;
+    text-align: center;
+    width: 125px;
+    height: 300px;
+    padding-left: 60px;
+}
+
+.moolah img {
+    width: 90%;
+    height: auto;
+}
+
+.moolah h2 {
+    margin: 10px auto;
+}
+
+.moolah p {
+    font-size: 10px;
+}
+
+footer {
+    display: block;
+    background-color: #515151;
+    width: 100%;
+    height: 80px;
+}
+
+.bottom-links {
+    text-align: center;
+    padding-top: 25px;
+    padding-bottom: 10px;
+}
+
+.bottom-links a {
+   padding: 20px;
+   text-decoration: none;
+   color: white;
+   text-transform: uppercase;
+   font-size: 13px;
+}
+
+.copyright {
+    text-align: center;
+    font-size: 10px;
+    color: rgb(170, 170, 170);
+}

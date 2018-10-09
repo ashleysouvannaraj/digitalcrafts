@@ -1,0 +1,21 @@
+body {
+    background-image: url("/original.gif");
+}
+
+.title {
+    background-color: #af6488;
+    border: 1px solid black;
+    text-align: center;
+    padding: 20px;
+    margin: 50px;
+}            
+
+.resumeStuff {
+    background-color: #d88cb0;
+    border: 1px solid black;
+    margin: 0 auto;
+    width: 1000px;
+    height: 900px;
+    text-align: center;
+}
+            
