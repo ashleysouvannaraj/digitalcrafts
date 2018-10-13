@@ -1,0 +1,54 @@
+body {
+    background-color: rgb(36, 47, 66)
+}
+
+.signup {
+    background-color: white;
+    width: 500px;
+    height: 635px;
+    text-align: center;
+    margin: 0 auto;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(102, 102, 102);
+}
+
+h1 {
+    padding-top: 75px;
+    padding-bottom: 0px;
+}
+
+hr {
+    width: 80%;
+    margin-bottom: 45px;
+}
+
+input[type=text] {
+    display: block;
+    width: 400px;
+    height: 45px;
+    margin: 0px auto 45px auto;
+    border-radius: 3px;
+    border: 1px solid lightgrey;
+    font-size: 15px;
+}
+
+input[type=password] {
+    display: block;
+    width: 400px;
+    height: 45px;
+    margin: 0px auto 45px auto;
+    border-radius: 3px;
+    border: 1px solid lightgrey;
+    font-size: 15px;
+}
+
+button {
+ width: 400px;
+ height: 70px;   
+ background-color: rgb(115, 194, 115);
+ border-bottom: solid rgb(67, 175, 67) 3px;
+ font-size: 20px;
+ color: white;
+ border-radius: 3px;
+}
+

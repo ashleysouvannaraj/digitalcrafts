@@ -1,0 +1,43 @@
+/* p {
+    color: green;
+}
+
+li {
+    color: green;
+} */
+
+div > li { /* selects every li tag under div */
+    color: orange;
+}
+
+* { /* selects all tags */
+    margin: 0px; 
+}
+
+ul > * { /*selects every UL tag */
+    background-color: green;
+}
+
+div li { /* selects EVERY div tag */
+    color: orange;
+}
+
+#fourthP { /* id */
+    font-size: 30 px;
+}
+
+.generalP { /* class */
+    color: red;
+}
+
+h1 + p { /* selects p tags that show up after h1 */
+    color: pink;
+}
+
+p:not(fourthP) { /* selects all p tags except the fourthP tag */
+    font-size: 35px;
+}
+
+li:nth-child(2) { /* looks at siblings & only effects siblings.. will select every nth instance */
+    text-decoration: underline;
+}
