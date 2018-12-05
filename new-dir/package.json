@@ -1,0 +1,23 @@
+{
+  "name": "dig-crafts",
+  "version": "1.0.0",
+  "description": "practicing npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "cat-facts": "^1.0.2",
+    "download-file": "^0.1.5",
+    "lodash": "^4.17.11",
+    "n_": "^1.4.6",
+    "nodemailer": "^4.7.0",
+    "pdfkit": "^0.8.3",
+    "robotjs": "^0.5.1",
+    "speed-test": "^2.0.0",
+    "wallpaper": "^4.1.0"
+  }
+}

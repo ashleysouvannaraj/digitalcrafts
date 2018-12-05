@@ -1,0 +1,1 @@
+const speedtest = require('speed-test');
