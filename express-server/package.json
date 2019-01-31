@@ -1,0 +1,19 @@
+{
+  "name": "express-server",
+  "version": "1.0.0",
+  "description": "learning about express",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "express-server"
+  },
+  "author": "Ashley Souvannaraj",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}

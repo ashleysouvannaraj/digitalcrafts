@@ -1,0 +1,25 @@
+[{
+    "name": "Chow Chow",
+    "description": "protector, loyal",
+    "imgURL": "app/images/chowchow.jpeg"
+},
+{
+    "name": "Doberman Pinscher",
+    "description": "high energy, intelligent",
+    "imgURL": "app/images/doberman.jpeg"
+},
+{
+    "name": "Black Cat",
+    "description": "not really bad luck",
+    "imgURL": "app/images/blackcat.jpeg"
+},
+{
+    "name": "Maine Coone",
+    "description": "sociable, playful",
+    "imgURL": "app/images/maine-coon.jpeg"
+},
+{
+    "name": "Orange Tabby",
+    "description": "orange, low energy",
+    "imgURL": "app/images/tabby.jpeg"
+}]
